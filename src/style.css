@@ -1,0 +1,77 @@
+
+.header{
+    border: 3px solid black;
+    margin: 0% 40% 0% 40%;
+    background-color: darkgray;
+    padding-bottom: 1px;
+}
+
+#zer{
+    font-size: 60px;
+    padding-left: 230px;
+
+}
+
+#dots{
+    font-size: larger;
+    padding-left: 1px;
+    padding-top: 1px;
+}
+
+.maincon{
+    /* border: 1.5px solid black; */
+    margin: 0 40% 0 40%;
+     background-color: darkgray;
+     text-align: center;
+}
+    
+
+
+.maincon div{
+    border: .5px solid black;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+}
+
+.container2{
+    display: flex;
+    /* padding: 50px; */
+}
+
+.container3{
+    display: flex;
+}
+
+.container4{
+    display: flex;
+}
+
+.container5{
+    display: flex;
+}
+
+.b1{
+    padding: 4px;
+    flex: 2;
+}
+
+#zero{
+    flex: 3.5;
+}
+
+#point{
+    flex: 1.6;
+}
+
+#equal{
+    background-color: orange;
+    flex: 1.5;
+}
+
+#y{
+    background-color: orange;
+}
